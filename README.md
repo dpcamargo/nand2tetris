@@ -1,5 +1,5 @@
 # nand2tetris
-LabVIEW code for nand2tetris
+LabVIEW 2014 code for nand2tetris
 
 LabVIEW implementation of the coursera course [From Nand 2 Tetris](https://class.coursera.org/nand2tetris1-001) by Shimon Schocken and Noam Nisan.
 
